@@ -6,4 +6,4 @@ pasta
 pburger
 pizza
 
-chicken
+chicken fingers
